@@ -1,0 +1,22 @@
+div{
+background-color: #F2F2F2;
+}
+h1{
+text-align: center;
+}
+  hr{
+    margine: 18px;
+
+  }
+  p{
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    padding: 25px;
+    margin: 30px;
+    margin-text: 5px;
+
+  }
+  body {
+    background-color: sky;
+  }
