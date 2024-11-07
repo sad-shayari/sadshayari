@@ -1,5 +1,9 @@
 div{
-background-color: #F2F2F2;
+  margin: auto;
+  background-color: #F2F2F2;
+    width: 85%;
+    border: 2px solid #73AD21;
+    padding: 10px;
 }
 h1{
 text-align: center;
